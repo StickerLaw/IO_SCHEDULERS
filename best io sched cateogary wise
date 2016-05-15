@@ -1,0 +1,40 @@
+best io sched by catogary
+For everyday usage:
+- SIO (My personal favourite)
+- ZEN (Second choice)
+- Tripndroid (Third choice)
+- ROW (Forth choice)
+- NOOP
+- CFQ
+- Deadline 
+
+
+For battery life:
+- NOOP (First choice)
+- FIOPS (Second choice)
+- SIO (Third choice)
+- ROW (Forth choice)
+- FIFO
+
+
+For gaming: 
+- ZEN (First choice)
+- Tripndroid (Second choice)
+- ROW (Third choice)
+- SIO 
+- Deadline 
+- CFQ 
+
+
+For performance(Benchmarking):
+- FIOPS (First choice) 
+- Tripndroid (Second Choice)
+- Deadline (Third choice)
+- NOOP
+- SIO 
+
+
+For heavy multitasking: 
+- BFQ (First choice)
+- CFQ (Second choice)
+- Deadline (Third choice)
